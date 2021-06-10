@@ -1,0 +1,50 @@
+
+img {
+	position: absolute;
+	margin: 620px 50px 10px 450px;
+	padding: 5px 0px 0px 40px;
+	height: 100px;
+}
+
+.login {
+	background: #45828a;
+	opacity: 50%;
+	position: absolute;
+	border-style: groove;
+	border-radius: 8px;
+	color: white;
+	margin: 650px 50px 10px 450px;
+	padding: 100px 200px 100px 200px;
+}
+
+input {
+	position: absolute;
+	color: darkgrey;
+	background: #2d373b;
+	padding: 10px;
+	border-radius: 5px;
+	margin: -50px 0px 100px 150px ;
+}
+
+.input {
+	color: darkgrey;
+	position: absolute;
+	margin: 620px 0px 10px 490px;
+	background: #2d373b;
+	border-radius: 5px;
+}
+
+#passwd {
+	color: darkgrey;
+	position: absolute;
+	margin: 6px 50px 10px 150px;
+	background: #2d373b;
+	border-radius: 5px;
+}
+
+button {
+	position: absolute;
+	color: darkgrey;
+	margin: 620px 0px -150px 720px;
+	height: 35px;
+}
